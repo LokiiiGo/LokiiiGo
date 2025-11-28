@@ -8,6 +8,7 @@ Busco constantemente aplicar as melhores práticas do mercado para criar soluç�
 
 ---
 **Minhas ferramentas de trabalho:**
+
 Aprofundo meu conhecimento e entrego projetos utilizando um stack focado na performance e na usabilidade.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokiiigo&layout=compact)
