@@ -11,9 +11,10 @@ Busco constantemente aplicar as melhores práticas do mercado para criar soluç�
 
 Aprofundo meu conhecimento e entrego projetos utilizando um stack focado na performance e na usabilidade.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokiiigo&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokiiigo&layout=compact&v=1)
 
 ---
 **Minha rede social:**
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-calle-6677ba333/)
+
