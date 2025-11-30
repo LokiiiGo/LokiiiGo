@@ -10,8 +10,14 @@ Busco constantemente aplicar as melhores práticas do mercado para criar soluç�
 **Minhas ferramentas de trabalho:**
 
 Aprofundo meu conhecimento e entrego projetos utilizando um stack focado na performance e na usabilidade.
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokiiigo&layout=compact)
+ 
+![HTML](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html&logoColor=white)
+![CSS](https://img.shields.io/badge/css-2093E6?style=for-the-badge&logo=css&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+![REACT](https://img.shields.io/badge/React-2C2C2C?style=for-the-badge&logo=react&logoColor=32c2c2c)
+![PHP](https://img.shields.io/badge/php-787CB5?style=for-the-badge&logo=php&logoColor=white)
+![NextJS](https://img.shields.io/badge/Next_JS-black?style=for-the-badge&logo=vercel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 **Minha rede social:**
