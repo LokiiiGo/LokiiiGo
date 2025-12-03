@@ -6,7 +6,7 @@ Atualmente, dedico-me ao desenvolvimento de websites, com foco primário em Fron
 
 Busco constantemente aplicar as melhores práticas do mercado para criar soluções escaláveis, responsivas e visualmente impressionantes.
 
----
+#
 **Minhas ferramentas de trabalho:**
 
 Aprofundo meu conhecimento e entrego projetos utilizando um stack focado na performance e na usabilidade.
@@ -19,7 +19,7 @@ Aprofundo meu conhecimento e entrego projetos utilizando um stack focado na perf
 ![NextJS](https://img.shields.io/badge/Next_JS-black?style=for-the-badge&logo=vercel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+#
 **Minha rede social:**
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-calle-6677ba333/)
