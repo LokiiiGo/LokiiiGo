@@ -18,6 +18,7 @@ Aprofundo meu conhecimento e entrego projetos utilizando um stack focado na perf
 ![PHP](https://img.shields.io/badge/php-787CB5?style=for-the-badge&logo=php&logoColor=white)
 ![NextJS](https://img.shields.io/badge/Next_JS-black?style=for-the-badge&logo=vercel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwindcss-000e29?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 #
 **Minha rede social:**
