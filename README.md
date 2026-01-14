@@ -1,6 +1,6 @@
 ﻿# Lucas Bruno Calle Chambi | Dev. Web
 
-Olá!, sou Lucas Bruno Calle Chambi, técnico em Desenvolvimento de Sistemas pela ETEC Camargo Aranha, e um desenvolvedor apaixonado por transformar ideias em interfaces web inovadoras e de alto desempenho.
+Olá, sou Lucas Bruno Calle Chambi, técnico em Desenvolvimento de Sistemas pela ETEC Camargo Aranha, e um desenvolvedor apaixonado por transformar ideias em interfaces web inovadoras e de alto desempenho.
 
 Atualmente, dedico-me ao desenvolvimento de websites, com foco primário em Front-end. Meu propósito é construir e inovar projetos que ofereçam a melhor experiência ao usuário, com o objetivo de alcançar o mais alto nível de excelência na área de programação.
 
@@ -21,7 +21,4 @@ Aprofundo meu conhecimento e entrego projetos utilizando um stack focado na perf
 ![TailwindCSS](https://img.shields.io/badge/Tailwindcss-000e29?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 #
-**Minha rede social:**
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-calle-6677ba333/)
 
