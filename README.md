@@ -1,15 +1,32 @@
-﻿# Lucas Bruno Calle Chambi | Dev. Front-End
+﻿# Lucas Bruno Calle Chambi | Dev. Freelancer
 
-Olá, sou Lucas Bruno Calle Chambi, técnico em Desenvolvimento de Sistemas pela ETEC Camargo Aranha, e um desenvolvedor que transforma ideias em interfaces web e de alto desempenho.
+<div style="text-align: center;">
 
-Dedico-me ao desenvolvimento de websites, com foco primário em Front-end. Meu propósito é construir e inovar projetos que ofereçam a melhor experiência ao usuário, com o objetivo de alcançar o mais alto nível de excelência na área de programação.
+## Sobre Mim
 
-Busco constantemente aplicar as melhores práticas do mercado para criar soluções escaláveis, responsivas e visualmente impressionantes.
+</div>
+
+
+Olá! Sou Lucas Bruno Calle Chambi, técnico em Desenvolvimento de Sistemas pela ETEC Camargo Aranha. Sou um desenvolvedor freelancer que transforma ideias em interfaces web de alto desempenho.
+
+Dedico-me ao desenvolvimento de websites com foco em **Front-end**, construindo soluções que ofereçam a melhor experiência ao usuário. Busco aplicar as melhores práticas do mercado para criar projetos escaláveis, responsivos e visualmente impressionantes.
+
+<div style="text-align: center;">
 
 #
 **Minhas ferramentas de trabalho:**
 
+</div>
+
+
 Aprofundo meu conhecimento e entrego projetos utilizando um stack focado na performance e na usabilidade.
 
+Meu foco está em tecnologias modernas como React, Next.js, Tailwind CSS e Laravel, garantindo que cada projeto seja otimizado, acessível e pronto para escalar.
+
+
+<div style="text-align: center;">
+
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwindcss,laravel" />
+
+</div>
 
