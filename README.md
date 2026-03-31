@@ -1,6 +1,6 @@
 ﻿# Lucas Bruno Calle Chambi | Freelancer Web
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<div align="center">
 
 ## Sobre Mim
 
@@ -11,7 +11,7 @@ Olá! Sou Lucas Bruno Calle Chambi, técnico em Desenvolvimento de Sistemas pela
 
 Dedico-me ao desenvolvimento de websites com foco em **Front-end**, construindo soluções que ofereçam a melhor experiência ao usuário. Busco aplicar as melhores práticas do mercado para criar projetos escaláveis, responsivos e visualmente impressionantes.
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<div align="center">
 
 #
 **Minhas ferramentas de trabalho**
@@ -24,7 +24,7 @@ Aprofundo meu conhecimento e entrego projetos utilizando um stack focado na perf
 Meu foco está em tecnologias modernas como React, Next.js, Tailwind CSS e Laravel, garantindo que cada projeto seja otimizado, acessível e pronto para escalar.
 
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwindcss" />
 
