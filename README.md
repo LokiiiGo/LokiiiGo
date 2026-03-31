@@ -21,7 +21,7 @@ Dedico-me ao desenvolvimento de websites com foco em **Front-end**, construindo 
 
 Aprofundo meu conhecimento e entrego projetos utilizando um stack focado na performance e na usabilidade.
 
-Meu foco está em tecnologias modernas como React, Next.js, Tailwind CSS e Laravel, garantindo que cada projeto seja otimizado, acessível e pronto para escalar.
+Meu foco está em tecnologias modernas como React, Next.js e Tailwind CSS, garantindo que cada projeto seja otimizado, acessível e pronto para escalar.
 
 
 <div align="center">
