@@ -1,6 +1,6 @@
-﻿# Lucas Bruno Calle Chambi | Freelancer Web
+﻿<div align="center">
 
-<div align="center">
+# Freelancer Web
 
 ## Sobre Mim
 
