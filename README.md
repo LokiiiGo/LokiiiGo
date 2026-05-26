@@ -1,28 +1,28 @@
 ﻿<div align="center">
 
-# Freelancer Web
-
-## Sobre Mim
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&color=32B6F7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Freelancer+Web+Front-End)](https://git.io/typing-svg)
 
 </div>
 
+## Sobre
 
-Olá! Sou Lucas Bruno Calle Chambi, técnico em Desenvolvimento de Sistemas pela ETEC Camargo Aranha. Sou um desenvolvedor freelancer que transforma ideias em interfaces web de alto desempenho.
+Sou Lucas Bruno Calle Chambi, técnico em Desenvolvimento de Sistemas pela **ETEC Camargo Aranha**. Sou um **freelancer Front-end Jr.** que transforma ideias em **interfaces web rápidas, modernas e com boa usabilidade**.
 
-Dedico-me ao desenvolvimento de websites com foco em **Front-end**, construindo soluções que ofereçam a melhor experiência ao usuário. Busco aplicar as melhores práticas do mercado para criar projetos escaláveis, responsivos e visualmente impressionantes.
+Dedico-me ao desenvolvimento de websites com foco em **Front-end**, construindo soluções que ofereçam a melhor experiência ao usuário. Busco aplicar as melhores práticas do mercado para criar projetos **escaláveis, responsivos e visualmente impressionantes**.
+
 
 <div align="center">
 
 #
-**Minhas ferramentas de trabalho**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=32B6F7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Minhas+ferramentas+de+trabalho)](https://git.io/typing-svg)
 
 </div>
 
+## Abordagem
 
-Aprofundo meu conhecimento e entrego projetos utilizando um stack focado na performance e na usabilidade.
+Aprofundo meu conhecimento e entrego projetos utilizando um stack focado em **performance** e **usabilidade**.
 
-Meu foco está em tecnologias modernas como React, Next.js e Tailwind CSS, garantindo que cada projeto seja otimizado, acessível e pronto para escalar.
-
+Meu foco está em tecnologias modernas como **React**, **Next.js** e **Tailwind CSS**, garantindo que cada projeto seja **otimizado, acessível e pronto para escalar**.
 
 <div align="center">
 
@@ -30,3 +30,20 @@ Meu foco está em tecnologias modernas como React, Next.js e Tailwind CSS, garan
 
 </div>
 
+## Stack (principal)
+
+- **HTML / CSS / JavaScript**
+- **React**
+- **Next.js**
+- **Tailwind CSS**
+
+## Serviços
+
+- Desenvolvimento de interfaces web (front-end)
+- Páginas e landing pages responsivas
+- Integração com APIs e componentes reutilizáveis
+- Otimização de performance e boas práticas de UX/UI
+
+## Contato
+
+Se você quiser transformar sua ideia em um site rápido, bonito e profissional, é só entrar em contato.
