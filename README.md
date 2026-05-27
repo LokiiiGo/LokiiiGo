@@ -2,9 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&weight=500&size=28&pause=1000&color=54EDF7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Freelancer+Web+Front-End)](https://git.io/typing-svg)
 
-</div>
-
 ## Sobre
+</div>
 
 Sou Lucas Bruno Calle Chambi, técnico em Desenvolvimento de Sistemas pela **ETEC Camargo Aranha**. Sou um **freelancer Front-end Jr.** que transforma ideias em **interfaces web rápidas, modernas e com boa usabilidade**.
 
@@ -16,9 +15,9 @@ Dedico-me ao desenvolvimento de websites com foco em **Front-end**, construindo 
 #
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&weight=500&size=20&pause=1000&color=54EDF7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Minhas+ferramentas+de+trabalho)](https://git.io/typing-svg)
 
-</div>
 
 ## Abordagem
+</div>
 
 Aprofundo meu conhecimento e entrego projetos utilizando um stack focado em **performance** e **usabilidade**.
 
@@ -44,6 +43,9 @@ Meu foco está em tecnologias modernas como **React**, **Next.js** e **Tailwind 
 - Integração com APIs e componentes reutilizáveis
 - Otimização de performance e boas práticas de UX/UI
 
+<div align="center">
+
 ## Contato
 
+</div>
 Se você quiser transformar sua ideia em um site rápido, bonito e profissional, é só entrar em contato.
