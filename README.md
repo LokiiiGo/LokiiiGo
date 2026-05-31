@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&weight=500&size=28&pause=1000&color=54EDF7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Freelancer+Web+Front-End)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=fff&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Freelancer+Web+Front-End)](https://git.io/typing-svg)
 
 ## Sobre
 </div>
@@ -11,10 +11,6 @@ Dedico-me ao desenvolvimento de websites com foco em **Front-end**, construindo 
 
 
 <div align="center">
-
-#
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&weight=500&size=20&pause=1000&color=54EDF7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Minhas+ferramentas+de+trabalho)](https://git.io/typing-svg)
-
 
 ## Abordagem
 </div>
