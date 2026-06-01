@@ -21,7 +21,7 @@ Meu foco está em tecnologias modernas como **React**, **Next.js** e **Tailwind 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwindcss" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs" />
 
 </div>
 
@@ -29,8 +29,8 @@ Meu foco está em tecnologias modernas como **React**, **Next.js** e **Tailwind 
 
 - **HTML / CSS / JavaScript**
 - **React**
-- **Next.js**
 - **Tailwind CSS**
+- **Next.js**
 
 ## Serviços
 
