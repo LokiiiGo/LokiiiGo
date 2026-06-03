@@ -45,3 +45,7 @@ Meu foco está em tecnologias modernas como **React**, **Next.js** e **Tailwind 
 
 </div>
 Se você quiser transformar sua ideia em um site rápido, bonito e profissional, é só entrar em contato.
+
+## teste 
+
+![](https://komarev.com/ghpvc/?username=lokiiigo)
