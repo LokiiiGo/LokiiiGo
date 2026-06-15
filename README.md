@@ -1,13 +1,13 @@
 ﻿<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&weight=500&size=28&pause=1000&color=19DFFD&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Freelancer+Web+Front-End)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&duration=5500&pause=1000&color=19DFFD&center=true&vCenter=true&width=435&lines=Freelancer+Front-End)](https://git.io/typing-svg)
 
 ## Sobre
 </div>
 
-Sou Lucas Bruno Calle Chambi. Um **freelancer** que transforma ideias em **interfaces web rápidas, modernas e com boa usabilidade**.
+Sou Lucas Bruno Calle Chambi. Um desenvolvedor que transforma ideias em interfaces web rápidas, modernas e com boa usabilidade.
 
-Dedico-me ao desenvolvimento de websites com foco em **Front-end**, construindo soluções que ofereçam a melhor experiência ao usuário. Busco aplicar as melhores práticas do mercado para criar projetos **escaláveis, responsivos e visualmente impressionantes**.
+Dedico-me ao desenvolvimento de websites com foco em Front-end, construindo soluções que ofereçam a melhor experiência ao usuário. Busco aplicar as melhores práticas do mercado para criar projetos escaláveis, responsivos e visualmente impressionantes.
 
 
 <div align="center">
@@ -15,9 +15,9 @@ Dedico-me ao desenvolvimento de websites com foco em **Front-end**, construindo 
 ## Abordagem
 </div>
 
-Aprofundo meu conhecimento e entrego projetos utilizando um stack focado em **performance** e **usabilidade**.
+Aprofundo meu conhecimento e entrego projetos utilizando um stack focado em performance e usabilidade.
 
-Meu foco está em tecnologias modernas como **React**, **Next.js** e **Tailwind CSS**, garantindo que cada projeto seja **otimizado, acessível e pronto para escalar**.
+Meu foco está em tecnologias modernas como **React**, **Next.js** e **Tailwind CSS**, garantindo que cada projeto seja otimizado, acessível e pronto para escalar.
 
 <div align="center">
 
@@ -44,4 +44,4 @@ Meu foco está em tecnologias modernas como **React**, **Next.js** e **Tailwind 
 ## Contato
 
 </div>
-Se você quiser transformar sua ideia em um site rápido, bonito e profissional, é só entrar em contato.
+Se você quiser transformar sua ideia em um site rápido, moderno e profissional, é só entrar em contato.
