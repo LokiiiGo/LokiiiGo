@@ -19,12 +19,6 @@ Aprofundo meu conhecimento e entrego projetos utilizando um stack focado em perf
 
 Meu foco está em tecnologias modernas como **React**, **Next.js** e **Tailwind CSS**, garantindo que cada projeto seja otimizado, acessível e pronto para escalar.
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs" />
-
-</div>
-
 ## Stack (principal)
 
 - **HTML / CSS / JavaScript**
