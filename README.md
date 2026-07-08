@@ -23,7 +23,7 @@ Meu foco está em tecnologias modernas como **React**, **Next.js** e **Tailwind 
 
 - **HTML / CSS / JavaScript**
 - **React**
-- **Tailwind CSS**
+- **TailwindCSS**
 - **Next.js**
 
 ## Serviços
