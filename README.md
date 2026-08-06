@@ -5,7 +5,7 @@
 ## Sobre
 </div>
 
-Sou Lucas Bruno Calle Chambi. Um desenvolvedor que transforma ideias em interfaces web rápidas, modernas e com boa usabilidade.
+Um desenvolvedor que transforma ideias em interfaces web rápidas, modernas e com boa usabilidade.
 
 Dedico-me ao desenvolvimento de websites com foco em Front-end, construindo soluções que ofereçam a melhor experiência ao usuário. Busco aplicar as melhores práticas do mercado para criar projetos escaláveis, responsivos e visualmente impressionantes.
 
