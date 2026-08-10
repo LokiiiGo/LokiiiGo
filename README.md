@@ -24,7 +24,7 @@ Meu foco está em tecnologias modernas como **React**, **Tailwind CSS** e **Next
 ## Tecnologias de Desenvolvimento
 
 ![HTML5](https://img.shields.io/badge/-HTML5-111111?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-111111?style=flat&logo=CSS&logoColor=1572B6)
+![CSS3](https://img.shields.io/badge/-CSS3-111111?style=flat&logo=CSS&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-111111?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-111111?style=flat&logo=react)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-111111?style=flat&logo=tailwind-css)
