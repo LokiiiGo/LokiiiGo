@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=30&duration=5500&pause=1000&color=F7004D&center=true&vCenter=true&width=435&lines=Freelancer+Front-End)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=24&pause=1000&color=F7186B&center=true&vCenter=true&width=435&lines=Seja+bem-vindo(a)+ao+meu+perfil!;Sou+Dev.+Front-End+Freelancer!)](https://git.io/typing-svg)
 
 ## Sobre
 </div>
@@ -17,18 +17,24 @@ Dedico-me ao desenvolvimento de websites com foco em Front-end, construindo solu
 
 Aprofundo meu conhecimento e entrego projetos utilizando um stack focado em performance e usabilidade.
 
-Meu foco está em tecnologias modernas como **React**, **Next.js** e **Tailwind CSS**, garantindo que cada projeto seja otimizado, acessível e pronto para escalar.
+Meu foco está em tecnologias modernas como **React**, **Tailwind CSS** e **Next.JS**, garantindo que cada projeto seja otimizado, acessível e pronto para escalar.
 
-## Stack (principal)
+## Tecnologias de Desenvolvimento
 
-- **HTML / CSS / JavaScript**
-- **React**
-- **TailwindCSS**
-- **Next.js**
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/-HTML5-111111?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-111111?style=flat&logo=CSS&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-111111?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-111111?style=flat&logo=react)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-111111?style=flat&logo=tailwind-css)
+![Nextjs](https://img.shields.io/badge/-Next.JS-111111?style=flat&logo=nextdotjs)
+
+</div>
 
 ## Serviços
 
 - Desenvolvimento de interfaces web (front-end)
 - Páginas e landing pages responsivas
-- Integração com APIs e componentes reutilizáveis
 - Otimização de performance e boas práticas de UX/UI
+- Integração com APIs e componentes reutilizáveis
