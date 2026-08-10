@@ -19,9 +19,9 @@ Aprofundo meu conhecimento e entrego projetos utilizando um stack focado em perf
 
 Meu foco está em tecnologias modernas como **React**, **Tailwind CSS** e **Next.JS**, garantindo que cada projeto seja otimizado, acessível e pronto para escalar.
 
-## Tecnologias de Desenvolvimento
-
 <div align="center">
+
+## Tecnologias de Desenvolvimento
 
 ![HTML5](https://img.shields.io/badge/-HTML5-111111?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-111111?style=flat&logo=CSS&logoColor=1572B6)
