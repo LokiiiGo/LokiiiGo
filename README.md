@@ -22,7 +22,7 @@ Aprofundo meu conhecimento e entrego projetos utilizando um stack focado em perf
 
 Meu foco está em tecnologias modernas como **React**, **Tailwind CSS** e **Next.JS**, garantindo que cada projeto seja otimizado, acessível e pronto para escalar.
 
-<div align="center">
+<div align="left">
 
 ## Estatísticas
   <table>
