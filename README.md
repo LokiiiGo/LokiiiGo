@@ -27,10 +27,10 @@ Trabalho com um stack focado em performance, tipagem segura e usabilidade: **Rea
 <table>
   <tr>
     <td>
-      <img src="https://ghstats.dev/api/card?username=LokiiiGo&theme=ayu&show_ring=false&border_radius=5" alt="Estatísticas" />
+      <img src="https://ghstats.dev/api/card?username=lokiiigo&theme=ayu&show_ring=false&border_radius=5" alt="Estatísticas" />
     </td>
     <td>
-      <img src="https://ghstats.dev/api/langs?username=LokiiiGo&theme=ayu&max_langs=6&layout=donut_vertical" alt="Top Languages" />
+      <img src="https://ghstats.dev/api/langs?username=lokiiigo&theme=ayu&max_langs=6&layout=donut_vertical" alt="Top Languages" />
     </td>
   </tr>
 </table>
