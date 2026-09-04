@@ -41,13 +41,13 @@ Trabalho com um stack focado em performance, tipagem segura e usabilidade: **Rea
 
 ## Tecnologias
 
-![HTML5](https://img.shields.io/badge/-HTML5-111111?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-111111?style=flat&logo=CSS&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-111111?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-111111?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/-React-111111?style=flat&logo=react)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-111111?style=flat&logo=tailwind-css)
-![Nextjs](https://img.shields.io/badge/-Next.js-111111?style=flat&logo=nextdotjs)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=tailwind-css)
+![Nextjs](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
 
 </div>
 
