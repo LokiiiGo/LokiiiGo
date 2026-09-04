@@ -28,6 +28,10 @@ Trabalho com um stack focado em performance, tipagem segura e usabilidade: **Rea
   <tr>
     <td>
       <img src="https://github-stats-extended.vercel.app/api?username=lokiiigo&include_all_commits=true&theme=great-gatsby" alt="GitHub Stats Card" />
+    </td>
+  </tr>
+  <tr>
+    <td>
       <img src="https://github-stats-extended.vercel.app/api/top-langs?username=lokiiigo&langs_count=4&theme=great-gatsby" /> 
     </td>
   </tr>
