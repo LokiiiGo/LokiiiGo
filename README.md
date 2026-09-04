@@ -24,7 +24,7 @@ Trabalho com um stack focado em performance, tipagem segura e usabilidade: **Rea
 
 ## Estatísticas
 
-<table align="center">
+<table align="center"> 
   <tr>
     <td>
       <img src="https://github-stats-extended.vercel.app/api/top-langs?username=lokiiigo&langs_count=4&theme=great-gatsby" />
