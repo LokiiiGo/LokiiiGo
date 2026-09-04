@@ -27,12 +27,12 @@ Trabalho com um stack focado em performance, tipagem segura e usabilidade: **Rea
 <table>
   <tr align="center">
     <td>
-      <img src="https://github-stats-extended.vercel.app/api?username=lokiiigo&include_all_commits=true&theme=chartreuse-dark" alt="GitHub Stats Card" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=lokiiigo&langs_count=4&theme=great-gatsby" />
     </td>
   </tr>
   <tr align="center">
     <td>
-      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=lokiiigo&layout=donut-vertical&langs_count=4&theme=chartreuse-dark" alt="Top Languages" />
+      <img src="https://github-stats-extended.vercel.app/api?username=LokiiiGo&show_icons=true&include_all_commits=true&theme=midnight-purple" alt="GitHub Stats Card" />
     </td>
 </table>
 
