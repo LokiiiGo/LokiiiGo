@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=22&pause=1000&color=F70C2CFF&center=true&vCenter=true&width=480&lines=Oi,+Mundo!;Sou+Dev.+Front-End+Freelancer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=22&pause=1000&color=C71414FF&center=true&vCenter=true&width=480&lines=Oi,+Mundo!;Sou+Dev.+Front-End+Freelancer!)](https://git.io/typing-svg)
 
 </div>
 
@@ -30,7 +30,7 @@ Trabalho com um stack focado em performance, tipagem segura e usabilidade: **Rea
       <img src="https://github-stats-extended.vercel.app/api/top-langs?username=lokiiigo&langs_count=4&theme=great-gatsby" />
     </td>
     <td>
-      <img src="https://github-stats-extended.vercel.app/api?username=lokiiigo&show_icons=true&include_all_commits=true&theme=midnight-purple" alt="GitHub Stats Card" />
+      <img src="https://github-stats-extended.vercel.app/api?username=LokiiiGo&include_all_commits=true&theme=great-gatsby" alt="GitHub Stats Card" />
     </td>
   </tr>
 </table>
