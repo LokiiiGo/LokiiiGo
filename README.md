@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=22&pause=1000&color=F70C2CFF&center=true&vCenter=true&width=480&lines=Ol%C3%A1%2C+mundo!;Sou+Dev.+Front-End+Freelancer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=22&pause=1000&color=F70C2CFF&center=true&vCenter=true&width=480&lines=Oi,+Mundo!;Sou+Dev.+Front-End+Freelancer!)](https://git.io/typing-svg)
 
 </div>
 
@@ -24,15 +24,16 @@ Trabalho com um stack focado em performance, tipagem segura e usabilidade: **Rea
 
 ## Estatísticas
 
-<table>
+<table align="center">
   <tr>
     <td>
-      <img src="https://ghstats.dev/api/card?username=lokiiigo&theme=ayu&show_ring=false&border_radius=5" alt="Estatísticas" />
-    </td>
-    <td>
-      <img src="https://ghstats.dev/api/langs?username=lokiiigo&theme=ayu&max_langs=6&layout=donut_vertical" alt="Top Languages" />
+      <img src="https://ghstats.dev/api/card?username=lokiiigo&theme=ayu&hide_border=true&border_radius=25" alt="GitHub Stats Card" />
     </td>
   </tr>
+  <tr>
+    <td>
+      <img src="https://ghstats.dev/api/langs?username=lokiiigo&theme=ayu&hide_border=true&max_langs=6&layout=vertical_list&border_radius=25" alt="Top Languages" />
+    </td>
 </table>
 
 </div>
@@ -63,3 +64,5 @@ Trabalho com um stack focado em performance, tipagem segura e usabilidade: **Rea
 - E-mail: lucascalle880@gmail.com
 - LinkedIn: https://linkedin.com/in/lucaschambi
 - Portfólio: https://portfolio-lucas-calle.vercel.app
+
+
