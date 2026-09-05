@@ -24,7 +24,7 @@ Trabalho com um stack focado em performance, tipagem segura e usabilidade: **Rea
 
 ## Estatísticas
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=lokivue&custom_title=Lucas%20Bruno%20Calle%20Chambi%27s%20Github%20Stats&show_icons=true&include_all_commits=true&theme=great-gatsby)](https://github-stats-extended.vercel.app/api?username=lokivue&custom_title=Lucas%20Bruno%20Calle%20Chambi%27s%20Github%20Stats&show_icons=true&include_all_commits=true&theme=great-gatsby)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=lokivue&include_all_commits=true&theme=great-gatsby)](https://github-stats-extended.vercel.app/api?username=lokivue&include_all_commits=true&theme=great-gatsby)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=lokivue&layout=pie&langs_count=4&theme=great-gatsby)](https://github-stats-extended.vercel.app/api/top-langs?username=lokivue&layout=pie&langs_count=4&theme=great-gatsby)
 
