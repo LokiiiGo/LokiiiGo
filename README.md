@@ -50,6 +50,3 @@ Trabalho com um stack focado em performance, tipagem segura e usabilidade: **Rea
 - E-mail: lucascalle880@gmail.com
 - LinkedIn: https://linkedin.com/in/lucaschambi
 - Portfólio: https://portfolio-lucas-calle.vercel.app
-
-
-![footer](https://capsule-render.vercel.app/api?type=waving&height=&color=gradient&section=footer)
