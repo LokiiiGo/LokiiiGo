@@ -34,7 +34,7 @@ Trabalho com um stack focado em performance, tipagem segura e usabilidade: **Rea
 
 ## Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,nextjs)](https://skillicons.dev) 
 
 </div>
 
