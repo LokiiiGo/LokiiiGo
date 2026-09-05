@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=22&pause=1000&color=BA3838FF&center=true&vCenter=true&width=480&lines=Oi,+Mundo!;Sou+Dev.+Front-End+Freelancer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=22&pause=1000&color=C00B72FF&center=true&vCenter=true&width=480&lines=Oi,+Mundo!;Sou+Dev.+Front-End+Freelancer!)](https://git.io/typing-svg)
 
 </div>
 
@@ -24,10 +24,9 @@ Trabalho com um stack focado em performance, tipagem segura e usabilidade: **Rea
 
 ## Estatísticas
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=lokivue&custom_title=Lucas%20Bruno%20Calle%20Chambi%27s%20Github%20Stats&show_icons=true&include_all_commits=true&theme=great-gatsby)](https://github-stats-extended.vercel.app/api?username=lokivue&custom_title=Lucas%20Bruno%20Calle%20Chambi%27s%20Github%20Stats&show_icons=true&include_all_commits=true&theme=great-gatsby)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=lokivue&theme=radical&border_radius=9&hide=stars%2Cavg%2Cgrade&order=commits%2Ccontributions%2Cweek%2Ctrend%2Cprs%2Cissues%2Cactive_day%2Chours%2Cstreak%2Crepos%2Cfollowers)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=lokivue&layout=pie&langs_count=4&theme=great-gatsby)](https://github-stats-extended.vercel.app/api/top-langs?username=lokivue&layout=pie&langs_count=4&theme=great-gatsby)
-
+![Top Languages](https://ghstats.dev/api/langs?username=lokivue&theme=radical&hide_title=true&layout=donut_vertical&border=9)
 </div>
 
 <div align="center">
