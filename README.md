@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=22&pause=1000&color=C71414FF&center=true&vCenter=true&width=480&lines=Oi,+Mundo!;Sou+Dev.+Front-End+Freelancer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=22&pause=1000&color=BA3838FF&center=true&vCenter=true&width=480&lines=Oi,+Mundo!;Sou+Dev.+Front-End+Freelancer!)](https://git.io/typing-svg)
 
 </div>
 
@@ -24,18 +24,9 @@ Trabalho com um stack focado em performance, tipagem segura e usabilidade: **Rea
 
 ## Estatísticas
 
-<table> 
-  <tr>
-    <td>
-      <img src="https://github-stats-extended.vercel.app/api?username=lokivue&include_all_commits=true&theme=great-gatsby" alt="GitHub Stats Card" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=lokivue&langs_count=4&theme=great-gatsby" /> 
-    </td>
-  </tr>
-</table>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=lokivue&custom_title=Lucas%20Bruno%20Calle%20Chambi%27s%20Github%20Stats&show_icons=true&include_all_commits=true&theme=great-gatsby)](https://github-stats-extended.vercel.app/api?username=lokivue&custom_title=Lucas%20Bruno%20Calle%20Chambi%27s%20Github%20Stats&show_icons=true&include_all_commits=true&theme=great-gatsby)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=lokivue&layout=pie&langs_count=4&theme=great-gatsby)](https://github-stats-extended.vercel.app/api/top-langs?username=lokivue&layout=pie&langs_count=4&theme=great-gatsby)
 
 </div>
 
@@ -43,13 +34,7 @@ Trabalho com um stack focado em performance, tipagem segura e usabilidade: **Rea
 
 ## Tecnologias
 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=tailwind-css)
-![Nextjs](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,nextjs)](https://skillicons.dev)
 
 </div>
 
@@ -67,3 +52,4 @@ Trabalho com um stack focado em performance, tipagem segura e usabilidade: **Rea
 - Portfólio: https://portfolio-lucas-calle.vercel.app
 
 
+![footer](https://capsule-render.vercel.app/api?type=waving&height=&color=gradient&section=footer)
