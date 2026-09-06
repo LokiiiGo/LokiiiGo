@@ -27,6 +27,8 @@ Trabalho com um stack focado em performance, tipagem segura e usabilidade: **Rea
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=lokivue&theme=ayu&hide_border=true&border_radius=5&hide=stars%2Cavg%2Cgrade&order=commits%2Ccontributions%2Cweek%2Ctrend%2Cprs%2Cissues%2Cactive_day%2Chours%2Cstreak%2Crepos%2Cfollowers)
 
 ![Top Languages](https://ghstats.dev/api/langs?username=lokivue&theme=ayu&hide_border=true&hide_title=true&layout=donut_vertical&border_radius=5)
+
+
 </div>
 
 <div align="center">
@@ -35,6 +37,19 @@ Trabalho com um stack focado em performance, tipagem segura e usabilidade: **Rea
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,nextjs)](https://skillicons.dev) 
 
+</div>
+
+<div align="center">
+
+## Projetos
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=lokivue&repo=stokki-life&theme=vue)](https://github.com/lokivue/stokki-life)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=lokivue&repo=subtrack)](https://github.com/lokivue/subtrack)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=lokivue&repo=math-calculator&theme=graywhite)](https://github.com/lokivue/math-calculator)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=lokivue&repo=blog-de-programacao)](https://github.com/lokivue/blog-de-programacao)
 </div>
 
 ## Serviços
