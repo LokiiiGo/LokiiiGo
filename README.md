@@ -45,11 +45,11 @@ Trabalho com um stack focado em performance, tipagem segura e usabilidade: **Rea
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=lokivue&repo=stokki-life&theme=vue)](https://github.com/lokivue/stokki-life)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=lokivue&repo=subtrack)](https://github.com/lokivue/subtrack)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=lokivue&repo=subtrack&theme=vue)](https://github.com/lokivue/subtrack)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=lokivue&repo=math-calculator&theme=graywhite)](https://github.com/lokivue/math-calculator)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=lokivue&repo=math-calculator&theme=vue)](https://github.com/lokivue/math-calculator)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=lokivue&repo=blog-de-programacao)](https://github.com/lokivue/blog-de-programacao)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=lokivue&repo=blog-de-programacao&theme=vue)](https://github.com/lokivue/blog-de-programacao)
 </div>
 
 ## Serviços
