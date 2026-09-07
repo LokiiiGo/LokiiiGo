@@ -20,6 +20,21 @@ Desenvolvedor front-end freelancer, focado em transformar ideias em interfaces r
 
 Trabalho com um stack focado em performance, tipagem segura e usabilidade: **React**, **TypeScript**, **Tailwind CSS** e **Next.js**, garantindo projetos otimizados, acessíveis e prontos para escalar.
 
+## Serviços
+
+- Desenvolvimento de interfaces web (front-end)
+- Páginas e landing pages responsivas
+- Otimização de performance e boas práticas de UX/UI
+- Integração com APIs e componentes reutilizáveis
+
+<div align="center">
+
+## Tecnologias
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,nextjs)](https://skillicons.dev) 
+
+</div>
+
 <div align="left">
 
 ## Estatísticas
@@ -31,13 +46,6 @@ Trabalho com um stack focado em performance, tipagem segura e usabilidade: **Rea
 
 </div>
 
-<div align="center">
-
-## Tecnologias
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,nextjs)](https://skillicons.dev) 
-
-</div>
 
 <div align="center">
 
@@ -52,12 +60,6 @@ Trabalho com um stack focado em performance, tipagem segura e usabilidade: **Rea
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=lokivue&repo=blog-de-programacao&theme=github_dark)](https://github.com/lokivue/blog-de-programacao)
 </div>
 
-## Serviços
-
-- Desenvolvimento de interfaces web (front-end)
-- Páginas e landing pages responsivas
-- Otimização de performance e boas práticas de UX/UI
-- Integração com APIs e componentes reutilizáveis
 
 ## Contato
 
