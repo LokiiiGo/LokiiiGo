@@ -39,7 +39,7 @@ Trabalho com um stack focado em performance, tipagem segura e usabilidade: **Rea
 
 ## Estatísticas
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=lokivue&theme=radical&hide_border=true&hide=stars%2Cavg%2Cactive_day%2Cgrade%2Cfollowers%2Crepos)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=lokivue&theme=radical&hide_border=false&hide=stars%2Cavg%2Cactive_day%2Cgrade%2Cfollowers%2Crepos)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=lokivue&langs_count=4&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=lokivue&langs_count=4&theme=radical)
 
