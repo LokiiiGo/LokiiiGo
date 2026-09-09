@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=22&pause=1000&color=E10909FF&center=true&vCenter=true&width=480&lines=Oi,+Mundo!;Sou+Dev.+Front-End+Freelancer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=22&pause=1000&color=F7319BFF&center=true&vCenter=true&width=480&lines=Oi,+Mundo!;Sou+Dev.+Front-End+Freelancer!)](https://git.io/typing-svg)
 
 </div>
 
@@ -41,7 +41,7 @@ Trabalho com um stack focado em performance, tipagem segura e usabilidade: **Rea
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=lokivue&theme=radical&hide_border=false&hide=stars%2Cavg%2Cactive_day%2Cgrade%2Cfollowers%2Crepos)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=lokivue&langs_count=4&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=lokivue&langs_count=4&theme=radical)
+![Top Languages](https://ghstats.dev/api/langs?username=lokivue&theme=radical&layout=donut_vertical)
 
 </div>
 
